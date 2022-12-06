@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Drug Authentication</title>
+    <link rel="stylesheet" href="drugwebmainpg.css">
+</head>
+<body>
+    <h1>DRUG AUTHENTICATION</h1>
+    <h3>Login as one of the following:- </h3>
+    <button id="Manufacturer" onclick="document.location='drugloginpg.html'">
+        <h2>Manufacturer</h2></button>
+    <button id="User"onclick="document.location='drugloginpg.html'">
+        <h2>User</h2></button>    
+    <button id="Other" onclick="document.location='drugloginpg.html'">
+        <h2>Other</h2></button>        
+</body>
+</html>
